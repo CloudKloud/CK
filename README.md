@@ -29,12 +29,14 @@ Also, You can check the Threat item detected list which is sorted by counted num
 
 You can see the top 5 items in each table.
 
-![이미지](https://github.com/yelynew/CK/blob/main/high.png "high threat item" width="300" height="200")
+_This is an EXAMPLE._
+
+<img src="https://github.com/yelynew/CK/blob/main/high.png" width="300" height="200"> 
+
+<img src="https://github.com/yelynew/CK/blob/main/medium.png" width="300" height="200"> 
+
+<img src="https://github.com/yelynew/CK/blob/main/low.png" width="300" height="200"> 
 
 
-![이미지](https://github.com/yelynew/CK/blob/main/medium.png "medium threat item" width="300" height="200")
-
-
-![이미지](https://github.com/yelynew/CK/blob/main/low.png "low threat item" width="300" height="200")
 
 
