@@ -31,11 +31,11 @@ You can see the top 5 items in each table.
 
 _This is an EXAMPLE._
 
-<img src="https://github.com/yelynew/CK/blob/main/high.png" width="500" height="400"> 
+<img src="https://github.com/yelynew/CK/blob/main/high.png" width="600" height="400"> 
 
-<img src="https://github.com/yelynew/CK/blob/main/medium.png" width="500" height="400"> 
+<img src="https://github.com/yelynew/CK/blob/main/medium.png" width="600" height="400"> 
 
-<img src="https://github.com/yelynew/CK/blob/main/low.png" width="500" height="400"> 
+<img src="https://github.com/yelynew/CK/blob/main/low.png" width="600" height="400"> 
 
 
 
