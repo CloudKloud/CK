@@ -23,7 +23,7 @@ You can check the region which is activated by blacklist IP.
 
 ![image](https://user-images.githubusercontent.com/54059519/102449815-6b934980-4078-11eb-9d30-4409ef930971.png)
 
-### Threat Item
+### Threat Item tables
 
 You can view 3 tables which are classified by severity.
 
@@ -67,4 +67,15 @@ You can add logs to _log baguni_ if you want. _log baguni_ can keep your log in 
 <img width="614" alt="LE5" src="https://user-images.githubusercontent.com/54059519/102453960-88cc1600-4080-11eb-8734-d728a0481e73.PNG">
 <img width="299" alt="LE6" src="https://user-images.githubusercontent.com/54059519/102453963-89fd4300-4080-11eb-9f4b-756ae0be7d7a.PNG">
 <img width="751" alt="LE7" src="https://user-images.githubusercontent.com/54059519/102453964-8a95d980-4080-11eb-81be-762c26f6343b.PNG">
+
+
+## Threat Item
+
+You can see the list of threat item and their severity.
+
+If you click the __details__ button, you can move _log explorer_ and detail logs detected about that item.
+
+<img width="1680" alt="KakaoTalk_20201217_150118701" src="https://user-images.githubusercontent.com/54059519/102455978-d9913e00-4083-11eb-869c-667e1d708f67.png">
+
+
 
