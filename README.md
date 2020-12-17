@@ -75,7 +75,7 @@ You can see the list of threat item and their severity.
 
 If you click the __details__ button, you can move _log explorer_ and detail logs detected about that item.
 
-<img width="1680" alt="KakaoTalk_20201217_150118701" src="https://user-images.githubusercontent.com/54059519/102455978-d9913e00-4083-11eb-869c-667e1d708f67.png">
+<img width="1200" alt="threatitem" src="https://user-images.githubusercontent.com/54059519/102456132-0f362700-4084-11eb-8a42-a61da19fb574.png">
 
 
 
