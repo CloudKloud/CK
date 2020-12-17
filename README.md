@@ -33,7 +33,7 @@ You can see the top 5 items in each table.
 
 _This is an EXAMPLE._
 
-<img src="(https://user-images.githubusercontent.com/54059519/102449889-8f568f80-4078-11eb-8b61-92c6958e3fdc.png" width="600" height="400"> 
+<img src="https://user-images.githubusercontent.com/54059519/102449889-8f568f80-4078-11eb-8b61-92c6958e3fdc.png" width="600" height="400"> 
 
 <img src="https://user-images.githubusercontent.com/54059519/102449942-b3b26c00-4078-11eb-9dd9-a55af50a2652.png" width="600" height="400"> 
 
