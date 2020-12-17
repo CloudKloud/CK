@@ -60,10 +60,10 @@ You can add logs to _log baguni_ if you want. _log baguni_ can keep your log in 
 <img width="735" alt="LE2" src="https://user-images.githubusercontent.com/54059519/102453912-7fdb4480-4080-11eb-913e-c2eb46ec52b1.PNG">
 <img width="758" alt="LE3" src="https://user-images.githubusercontent.com/54059519/102453915-823d9e80-4080-11eb-96af-133b931f10d9.PNG">
 
-#### *If you click the + button.
+#### * If you click the + button.
 <img width="755" alt="LE4" src="https://user-images.githubusercontent.com/54059519/102453929-849ff880-4080-11eb-93de-d7d58329716a.PNG">
 
-#### *If you click IAM user details.
+#### * If you click IAM user details.
 <img width="614" alt="LE5" src="https://user-images.githubusercontent.com/54059519/102453960-88cc1600-4080-11eb-8734-d728a0481e73.PNG">
 <img width="299" alt="LE6" src="https://user-images.githubusercontent.com/54059519/102453963-89fd4300-4080-11eb-9f4b-756ae0be7d7a.PNG">
 <img width="751" alt="LE7" src="https://user-images.githubusercontent.com/54059519/102453964-8a95d980-4080-11eb-81be-762c26f6343b.PNG">
