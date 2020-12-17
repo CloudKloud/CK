@@ -46,6 +46,24 @@ _This is an EXAMPLE._
 
 ## Log Explorer
 
+You can see all Cloud Watch logs in here.
+
+You can search whatever you want based on text.
+
+<img width="760" alt="LEnormal" src="https://user-images.githubusercontent.com/54059519/102466242-1cf2a900-4092-11eb-9b32-47cece1ed2ec.PNG">
+
+
+
+## Threat Item
+
+You can see the list of threat item and their severity.
+
+If you click the __details__ button, you can move _log explorer_ and view detail logs detected about that item.
+
+<img width="1200" alt="threatitem" src="https://user-images.githubusercontent.com/54059519/102456132-0f362700-4084-11eb-8a42-a61da19fb574.png">
+
+### Detail Page
+
 You can show all Cloud Watch logs which are collected by log collecting guidelines.
 
 First of all, you can show the logs per time graph.
@@ -74,13 +92,6 @@ Also, you can advanced search for diverse categories like this.
 <img width="751" alt="LE7" src="https://user-images.githubusercontent.com/54059519/102453964-8a95d980-4080-11eb-81be-762c26f6343b.PNG">
 
 
-## Threat Item
-
-You can see the list of threat item and their severity.
-
-If you click the __details__ button, you can move _log explorer_ and view detail logs detected about that item.
-
-<img width="1200" alt="threatitem" src="https://user-images.githubusercontent.com/54059519/102456132-0f362700-4084-11eb-8a42-a61da19fb574.png">
 
 
 ## Log Baguni
