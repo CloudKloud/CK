@@ -61,7 +61,12 @@ You can add logs to _log baguni_ if you want. _log baguni_ can keep your log in 
 <img width="758" alt="LE3" src="https://user-images.githubusercontent.com/54059519/102453915-823d9e80-4080-11eb-96af-133b931f10d9.PNG">
 
 #### * If you click the + button.
+
 <img width="755" alt="LE4" src="https://user-images.githubusercontent.com/54059519/102453929-849ff880-4080-11eb-93de-d7d58329716a.PNG">
+
+Also, you can advanced search for diverse categories like this.
+
+<img width="804" alt="LEsearch" src="https://user-images.githubusercontent.com/54059519/102456836-24f81c00-4085-11eb-8c1e-887fa19489b2.PNG">
 
 #### * If you click IAM user details.
 <img width="614" alt="LE5" src="https://user-images.githubusercontent.com/54059519/102453960-88cc1600-4080-11eb-8734-d728a0481e73.PNG">
@@ -73,9 +78,34 @@ You can add logs to _log baguni_ if you want. _log baguni_ can keep your log in 
 
 You can see the list of threat item and their severity.
 
-If you click the __details__ button, you can move _log explorer_ and detail logs detected about that item.
+If you click the __details__ button, you can move _log explorer_ and view detail logs detected about that item.
 
 <img width="1200" alt="threatitem" src="https://user-images.githubusercontent.com/54059519/102456132-0f362700-4084-11eb-8a42-a61da19fb574.png">
 
+
+## Log Baguni
+
+You can show your stored log calendar and list here.
+
+The calendar shows when the log made.
+
+You can remove your _log baguni_ item from the list.
+
+<img width="1200" alt="BaguniCalender2" src="https://user-images.githubusercontent.com/54059519/102459691-44914380-4089-11eb-9895-662feb2821c7.png">
+<img width="1200" alt="LogBaguni" src="https://user-images.githubusercontent.com/54059519/102459799-6d193d80-4089-11eb-81b7-f553cf506e1e.png">
+
+#### In addition, you can show the log calendar not only monthly but also daily and weekly.
+
+<img width="1200" alt="BaguniWeek" src="https://user-images.githubusercontent.com/54059519/102459700-4955f780-4089-11eb-8198-a3e557030e9b.png">
+<img width="1200" alt="BaguniDay" src="https://user-images.githubusercontent.com/54059519/102459745-57a41380-4089-11eb-8793-2466b7671661.png">
+
+
+## Setting Check
+
+You can show your present setting condition at a look.
+
+If you have false things, you need to restore them correctly through our __guideline.__
+
+<img width="1200" alt="settingcheck" src="https://user-images.githubusercontent.com/54059519/102458895-40185b00-4088-11eb-99df-cf544e8fd6a4.png">
 
 
