@@ -54,13 +54,13 @@ You can search whatever you want based on text.
 
 
 
-## Threat Item
+## Threat Items
 
 You can see the list of threat item and their severity.
 
-If you click the __details__ button, you can move _log explorer_ and view detail logs detected about that item.
+If you click the __details__ button, you can move _Threat ITtems Detail page_ and view detail logs detected about that item.
 
-<img width="1200" alt="threatitem" src="https://user-images.githubusercontent.com/54059519/102456132-0f362700-4084-11eb-8a42-a61da19fb574.png">
+<img width="518" alt="threatitem" src="https://user-images.githubusercontent.com/54059519/102468904-727c8500-4095-11eb-8d1a-b3597b9ae1f3.png">
 
 ### Detail Page
 
