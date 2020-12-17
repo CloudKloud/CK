@@ -31,7 +31,7 @@ Also, You can check the Threat item detected list which is sorted by counted num
 
 You can see the top 5 items in each table.
 
-And if you click the __details__ button, you can move to the _Threat Item Detail Page_ and show detail logs. 
+And if you click the __details__ button, you can move to the _Threat Items Detail Page_ and show detail logs. 
 
 _This is an EXAMPLE._
 
